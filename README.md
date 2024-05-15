@@ -37,11 +37,11 @@ This open-source project is aimed at analyzing and curating playlists based on t
 - Spotipy library for music data access(Spotify API).
 
 ## Getting Started
-**1.** Access your Spotify for Developers dashboard using your Spotify account
-**2.** Create an App: Provides you with the client ID and client secret needed to request an access token by implementing any of the authorization flows.
+- Access your Spotify for Developers dashboard using your Spotify account
+- Create an App: Provides you with the client ID and client secret needed to request an access token by implementing any of the authorization flows.
 The OAuth2 standard for Spotify defines four grant types or flows to request and get the access token that we need to get our Spotify data. You can follow the Authorization tutorial on the Spotify for Developers page to learn more about the OAuth flows.
 This project uses the authorization code with PKCE(proof key ), as it provides protection against attacks where the authorization code may be intercepted since it does not require our secret key. You can read more on the full guide for the implementation of the PKCE extension under the Authorization code with PKCE Flow.
-**3.** Develop an HTML file to serve as landing page using GitHub pages to facilitate user interaction.
+- Develop an HTML file to serve as landing page using GitHub pages to facilitate user interaction.
 To create an HTML file, follow these steps:
    **a.** Navigate to the Cloned Repository Directory: Open your terminal (Command Prompt, Terminal, or equivalent).
    Use the cd command to navigate to the directory where your cloned repository is located.
@@ -51,10 +51,10 @@ To create an HTML file, follow these steps:
    (nano index.html)
    This command will open a new file named index.html in the nano editor within the terminal.
    **c.** Add HTML Content: In the nano editor (or any other editor you make use of), add your HTML content for the landing page. You can use the HTML code provided in this repository or create your own content.
-**4.** Move the HTML file to your GitHub repository. Then configure your GitHub pages to access your GitHub pages url where your landing page is hosted. You can follow the Getting started tutorial on GitHub pages.
-**5.** Make a request authorization from user's Spotify account to retrieve the authorization code, this redirects the user to Spotify for authorization by visiting the URL provided.
+- Move the HTML file to your GitHub repository. Then configure your GitHub pages to access your GitHub pages url where your landing page is hosted. You can follow the Getting started tutorial on GitHub pages.
+- Make a request authorization from user's Spotify account to retrieve the authorization code, this redirects the user to Spotify for authorization by visiting the URL provided.
 After authorization, Spotify will redirect back to the redirect URI with the authorization code. Then use the access token to fetch data from the Spotify Web API.
-**6.** Run the Python script to authenticate with Spotify, fetch liked tracks, and create the playlist.
+- Run the Python script to authenticate with Spotify, fetch liked tracks, and create the playlist.
 
 ## How to Use
 **1.** Clone the repository.
