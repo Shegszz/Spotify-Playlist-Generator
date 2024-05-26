@@ -29,7 +29,7 @@ This open-source project is aimed at analyzing and curating playlists based on t
 - **README.md:** Detailed project overview, usage instructions, and technology used.
 - **main.py:** The Python script orchestrating the project, handling everything from API credentials setup to token exchange using PKCE for fetching liked songs, extracting data, and creating the playlist.
 - **index.html:** Landing page for user interaction
-- - **Playlist image:** [Playlist_image](Playlist_image/Playlist_image.png)
+- - **Playlist image:** [Playlist_image](Playlist_image/playlist.png)
 
 ## Technologies Used
 - Python for scripting and API interactions.
