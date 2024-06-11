@@ -1,5 +1,5 @@
 # Spotify-Playlist-Generator(Popular Tracks Analyzer)
-This project leverages the Spotify API to analyze listening habits and curate a personalized [playlist](https://open.spotify.com/playlist/4rNOBe85ArXFCx5VsAn6TW?si=EJrpTlwYTei9cyeDEn6Jqg ) of top 100 most popular liked songs.
+This project leverages the Spotify API to analyze listening habits and curate a [personalized playlist](https://open.spotify.com/playlist/4rNOBe85ArXFCx5VsAn6TW?si=EJrpTlwYTei9cyeDEn6Jqg ) of top 100 most popular liked songs.
 
 ## Table of Contents
 
