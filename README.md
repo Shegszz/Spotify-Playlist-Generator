@@ -72,4 +72,4 @@ After authorization, Spotify will redirect back to the redirect URI with the aut
 Feel free to contribute to this project by forking the repository, making changes, and creating pull requests.
 
 ## Contact Information
-For further inquiries or collaboration oppprtunities, feel free to reach out via [email](segunbakare.d@gmail.com).
+For further inquiries or collaboration oppprtunities, feel free to reach out via [upwork](https://www.upwork.com/freelancers/~01e0f7b2ebebabdfb4?mp_source=share) or [email](segunbakare.d@gmail.com).
